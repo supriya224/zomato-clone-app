@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zomato-clone-app/static/css/main.4b468377.css",
+    "main.js": "/zomato-clone-app/static/js/main.77108604.js",
+    "index.html": "/zomato-clone-app/index.html",
+    "main.4b468377.css.map": "/zomato-clone-app/static/css/main.4b468377.css.map",
+    "main.77108604.js.map": "/zomato-clone-app/static/js/main.77108604.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b468377.css",
+    "static/js/main.77108604.js"
+  ]
+}
